@@ -1,0 +1,8 @@
+dim(CarInsurances)
+x <- head(CarInsurances, 8)
+print(x)
+X <- tail(CarInsurances, 5)
+print(X)
+ls(CarInsurances)
+objects(CarInsurances)
+summary(CarInsurances)
